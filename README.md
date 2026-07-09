@@ -1,7 +1,7 @@
 # Hi, I'm Wan Muhammad Ashraf 👋
 
 # 💫 About Me:
-A Computer Science graduate from Universiti Teknologi PETRONAS specializing in Data Analytics with a minor in Financial Management. I am deeply passionate about building modern full-stack web platforms and native, responsive mobile applications. <br><br>Looking for professional software engineering opportunities in Rawang or Kuala Lumpur.
+A Computer Science graduate from Universiti Teknologi PETRONAS specializing in Data Analytics with a minor in Financial Management. I am deeply passionate about building modern full-stack web platforms and native, responsive mobile applications. <br><br>*Looking for professional software engineering opportunities in Rawang or Kuala Lumpur.*
 
 
 ## 🌐 Socials:
@@ -22,6 +22,3 @@ A Computer Science graduate from Universiti Teknologi PETRONAS specializing in D
 - **TaskBuddy (FYP):** An AI-assisted group project management mobile app built with Flutter and Firebase, featuring real-time `StreamBuilder` streams and automated task breakdown using the native Google Gemini API.
 - **VouchWise:** A decoupled full-stack MERN loyalty platform engineered with MVC design, featuring dynamic transaction PDF generation (PDFKit), secure JWT/bcrypt authentication, and state management.
 - **Restful Student Manager:** A monolithic Node.js and Express web app intentionally refactored from a raw MongoDB script into a modular MVC architecture with strict Mongoose schema validation and centralized error middleware.
-
----
-*Looking for software engineering opportunities in Kuala Lumpur or Rawang.*
